@@ -1,0 +1,18 @@
+PODS:
+  - ZHHRadioButton (0.0.1):
+    - ZHHRadioButton/Core (= 0.0.1)
+  - ZHHRadioButton/Core (0.0.1)
+
+DEPENDENCIES:
+  - ZHHRadioButton (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHRadioButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHRadioButton: 390454d39c001ddcd5efcfb4dd497c5a6100e47a
+
+PODFILE CHECKSUM: 4a6cc974b4bd5745131f13aa07ab5b624e15b6af
+
+COCOAPODS: 1.16.2
